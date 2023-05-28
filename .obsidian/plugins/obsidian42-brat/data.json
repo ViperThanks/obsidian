@@ -1,0 +1,18 @@
+{
+  "pluginList": [],
+  "pluginSubListFrozenVersion": [],
+  "themesList": [
+    {
+      "repo": "AnubisNekhet/AnuPpuccin",
+      "lastUpdate": "2022-11-26T12:24:25Z"
+    }
+  ],
+  "updateAtStartup": false,
+  "updateThemesAtStartup": false,
+  "ribbonIconEnabled": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": true,
+  "notificationsEnabled": true
+}

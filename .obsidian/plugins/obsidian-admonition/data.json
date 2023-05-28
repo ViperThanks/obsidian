@@ -1,0 +1,38 @@
+{
+  "userAdmonitions": {
+    "MyNote": {
+      "type": "MyNote",
+      "color": "7, 237, 199",
+      "icon": {
+        "name": "atlas",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "MyNote",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    }
+  },
+  "syntaxHighlight": true,
+  "copyButton": false,
+  "version": "9.3.1",
+  "autoCollapse": false,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": true
+  },
+  "icons": [],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.6c659e"
+}

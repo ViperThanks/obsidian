@@ -1,0 +1,16 @@
+{
+  "accentColor": "#cddad2",
+  "theme": "obsidian",
+  "cssTheme": "AnuPpuccin",
+  "translucency": false,
+  "baseFontSize": 15,
+  "monospaceFontFamily": "",
+  "textFontFamily": "",
+  "enabledCssSnippets": [
+    "AnuExtendTheme",
+    "表格优化",
+    "预览模式优化-空白行-行间距",
+    "yaozhuwa@CSS"
+  ],
+  "interfaceFontFamily": "Cascadia Mono,黑体"
+}

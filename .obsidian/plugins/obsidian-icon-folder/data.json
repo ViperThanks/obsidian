@@ -1,0 +1,57 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FabSimplybuilt",
+      "SiApacherocketmq",
+      "SiDocker",
+      "JeCloud technology",
+      "RiSettings2Line"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "emojiStyle": "none",
+    "iconInTabsEnabled": false
+  },
+  "CS Foundation/Data Structure": "JeDs",
+  "Tech/00 Tech Reference": "JeReference",
+  "Global": "RiSettings2Line",
+  "Global/Attackment": "JePic",
+  "CS Foundation": "JeCom",
+  "Tech": "JeCloud technology",
+  "Global/Conf": "JeConf",
+  "Inbox": "FasInbox",
+  "English": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+  "Daily": "SiDailymotion",
+  "Interview": "FasPerson",
+  "语雀": "🦜",
+  "CS Foundation/Algorithm": "JeLeetcode",
+  "CS Foundation/Operating System": "JeOs",
+  "CS Foundation/Computer Networking - A Top-Down Approch (CN)": "JeNetwo",
+  "Tech/Messgae Queue(MQ)": "SiApacherocketmq",
+  "Tech/Docker": "SiDocker",
+  "Tech/Introduction": "JeIntroduce",
+  "Tech/Java SE": "FabJava",
+  "Tech/JVM": "FabJava",
+  "Tech/Linux": "FabLinux",
+  "Tech/MySql": "JeMYSQL",
+  "Tech/Project Implement": "FabSimplybuilt",
+  "Tech/Redis": "JeRedis",
+  "Tech/Spring全家桶": {
+    "iconName": "SiSpring",
+    "inheritanceIcon": "SiSpring"
+  },
+  "Tech/Spring全家桶/00 SpringBoot": "SiSpring",
+  "Tech/Spring全家桶/00 SpringData": "SiSpring",
+  "Tech/Spring全家桶/00 SpringMVC": "SiSpring",
+  "Tech/配置文件": "JeConf"
+}

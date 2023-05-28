@@ -1,0 +1,207 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Redis(深入学习)",
+      "path": "Tech/Redis/Redis(深入学习).md"
+    },
+    {
+      "basename": "Redis.conf",
+      "path": "Tech/Redis/Redis.conf.md"
+    },
+    {
+      "basename": "Untitled 6",
+      "path": "Inbox/Untitled 6.md"
+    },
+    {
+      "basename": "redis",
+      "path": "Inbox/redis.md"
+    },
+    {
+      "basename": "Redis & Docker",
+      "path": "Tech/Docker/Redis & Docker.md"
+    },
+    {
+      "basename": "Docker常用命令",
+      "path": "Tech/Docker/Docker常用命令.md"
+    },
+    {
+      "basename": "关于Spirngboot @Transaction注解的失效问题1",
+      "path": "Tech/00 Tech Reference/关于Spirngboot @Transaction注解的失效问题1.md"
+    },
+    {
+      "basename": "关于Spirngboot @Transaction注解的失效问题",
+      "path": "Tech/Spring全家桶/关于Spirngboot @Transaction注解的失效问题.md"
+    },
+    {
+      "basename": "main",
+      "path": "Interview/main.md"
+    },
+    {
+      "basename": "SpringDataRedis",
+      "path": "Tech/Spring全家桶/00 SpringData/SpringDataRedis.md"
+    },
+    {
+      "basename": "Untitled 5",
+      "path": "Inbox/Untitled 5.md"
+    },
+    {
+      "basename": "Untitled 4",
+      "path": "Inbox/Untitled 4.md"
+    },
+    {
+      "basename": "Untitled 3",
+      "path": "Inbox/Untitled 3.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "Inbox/Untitled 1.md"
+    },
+    {
+      "basename": "2020热力发电厂试卷A",
+      "path": "Daily/2020热力发电厂试卷A.pdf"
+    },
+    {
+      "basename": "学习路线",
+      "path": "Interview/学习路线.md"
+    },
+    {
+      "basename": "MySql",
+      "path": "Tech/MySql/MySql.md"
+    },
+    {
+      "basename": "easy-distributed-lock.excalidraw",
+      "path": "思维导图/easy-distributed-lock.excalidraw.md"
+    },
+    {
+      "basename": "my_directory",
+      "path": "Global/Conf/my_directory.md"
+    },
+    {
+      "basename": "Untitled 2",
+      "path": "Inbox/Untitled 2.md"
+    },
+    {
+      "basename": "分布式锁(Distributed Lock)🔒的实现",
+      "path": "Tech/Project Implement/分布式锁(Distributed Lock)🔒的实现.md"
+    },
+    {
+      "basename": "Message Queue(MQ)",
+      "path": "Tech/Messgae Queue(MQ)/Message Queue(MQ).md"
+    },
+    {
+      "basename": "Redisson",
+      "path": "Tech/Redis/Redisson.md"
+    },
+    {
+      "basename": "Docker",
+      "path": "Tech/Docker/Docker.md"
+    },
+    {
+      "basename": "中科大 - 计算机网络(CN)",
+      "path": "CS Foundation/Computer Networking - A Top-Down Approch (CN)/中科大 - 计算机网络(CN).md"
+    },
+    {
+      "basename": "免密SSH",
+      "path": "Tech/Linux/免密SSH.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Inbox/Untitled.md"
+    },
+    {
+      "basename": "Drawing 2023-04-27 18.03.58.excalidraw",
+      "path": "思维导图/Drawing 2023-04-27 18.03.58.excalidraw.md"
+    },
+    {
+      "basename": "redis的启动指南(Reides start guide for windows)",
+      "path": "Tech/Redis/redis的启动指南(Reides start guide for windows).md"
+    },
+    {
+      "basename": "azure",
+      "path": "Daily/VPS/azure.md"
+    },
+    {
+      "basename": "SpringBoot",
+      "path": "Tech/Spring全家桶/00 SpringBoot/SpringBoot.md"
+    },
+    {
+      "basename": "日常bug",
+      "path": "Daily/Bug/日常bug.md"
+    },
+    {
+      "basename": "MySql 行锁图",
+      "path": "Tech/MySql/MySql 行锁图.md"
+    },
+    {
+      "basename": "MyBatisPlus配置",
+      "path": "Tech/Spring全家桶/00 SpringBoot/MyBatisPlus配置.md"
+    },
+    {
+      "basename": "Spring参考资料",
+      "path": "Tech/Spring全家桶/Spring参考资料.md"
+    },
+    {
+      "basename": "JVM参数",
+      "path": "Tech/JVM/JVM参数.md"
+    },
+    {
+      "basename": "Mysql类型",
+      "path": "Tech/MySql/Mysql类型.md"
+    },
+    {
+      "basename": "Explain性能参考表",
+      "path": "Tech/MySql/Explain性能参考表.md"
+    },
+    {
+      "basename": "介词",
+      "path": "English/grammar/介词.md"
+    },
+    {
+      "basename": "题目",
+      "path": "English/语法错题/题目.md"
+    },
+    {
+      "basename": "句子",
+      "path": "English/美剧/句子.md"
+    },
+    {
+      "basename": "翻译",
+      "path": "English/句句真言/翻译.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "语雀/Untitled.md"
+    },
+    {
+      "basename": "00 什么是JVM (Java Virtual Machine)",
+      "path": "Tech/JVM/00 什么是JVM (Java Virtual Machine).md"
+    },
+    {
+      "basename": "常用",
+      "path": "CS Foundation/Algorithm/Acwing/常用.md"
+    },
+    {
+      "basename": "操作系统 (OS)",
+      "path": "CS Foundation/Operating System/操作系统 (OS).md"
+    },
+    {
+      "basename": "计算机网络(CN) -- 快速学习",
+      "path": "CS Foundation/Computer Networking - A Top-Down Approch (CN)/计算机网络(CN) -- 快速学习.md"
+    },
+    {
+      "basename": "Redis(快速入门)",
+      "path": "Tech/Redis/Redis(快速入门).md"
+    },
+    {
+      "basename": "用户登录功能的实现",
+      "path": "Tech/Project Implement/用户登录功能的实现.md"
+    },
+    {
+      "basename": "OSS对象存储",
+      "path": "Tech/Project Implement/OSS对象存储.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}

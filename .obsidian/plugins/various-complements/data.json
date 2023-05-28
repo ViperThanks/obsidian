@@ -1,0 +1,611 @@
+{
+  "strategy": "default",
+  "cedictPath": "./cedict_ts.u8",
+  "matchStrategy": "prefix",
+  "fuzzyMatch": true,
+  "matchingWithoutEmoji": true,
+  "treatAccentDiacriticsAsAlphabeticCharacters": false,
+  "maxNumberOfSuggestions": 20,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "useCommonPrefixCompletionOfSuggestion": false,
+  "patternsToSuppressTrigger": [
+    "^~~~.*",
+    "^```.*"
+  ],
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": true,
+  "customDictionaryPaths": "Global/Conf/my_directory.md",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "updateInternalLinksOnSave": true,
+  "insertAliasTransformedFromDisplayedInternalLink": {
+    "enabled": false,
+    "beforeRegExp": "",
+    "after": ""
+  },
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "disableOnMobile": false,
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "https://docs.spring.io/spring-boot/docs/current/reference/html/features.html#features.external-config": {
+      "https://docs.spring.io/spring-boot/docs/current/reference/html/features.html#features.external-config": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681809833893
+        }
+      }
+    },
+    "日常Bug": {
+      "日常Bug": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681809847686
+        }
+      }
+    },
+    "comply": {
+      "comply": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1681810546036
+        }
+      }
+    },
+    "complaints": {
+      "complaints": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1681872270640
+        }
+      }
+    },
+    "Internet": {
+      "Internet": {
+        "customDictionary": {
+          "count": 5,
+          "lastUpdated": 1682149671252
+        }
+      }
+    },
+    "Content": {
+      "Content": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1681891578096
+        }
+      }
+    },
+    "Provider": {
+      "Provider": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1681891614501
+        }
+      }
+    },
+    "Isp": {
+      "Isp": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1681891961384
+        }
+      }
+    },
+    "custom": {
+      "custom": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1681892115863
+        }
+      }
+    },
+    "dictionary": {
+      "dictionary": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1681892138961
+        }
+      }
+    },
+    "# Custom ": {
+      "# Custom ": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1681892219009
+        }
+      }
+    },
+    "Computer": {
+      "Computer": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1681972819729
+        }
+      }
+    },
+    "Network": {
+      "Network": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1681892866770
+        }
+      }
+    },
+    "ISP:Internet Server Provider ": {
+      "ISP:Internet Server Provider ": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1681892420781
+        }
+      }
+    },
+    "ISP (*Internet Server Provider*)": {
+      "ISP (*Internet Server Provider*)": {
+        "customDictionary": {
+          "count": 5,
+          "lastUpdated": 1681979792060
+        }
+      }
+    },
+    "Computer Network : ": {
+      "Computer Network : ": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1681893017273
+        }
+      }
+    },
+    "Spring": {
+      "Spring": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1681894245784
+        }
+      }
+    },
+    "redis的启动指南(Reides start guide for windows)": {
+      "redis的启动指南(Reides start guide for windows)": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681893086805
+        }
+      }
+    },
+    "Virtual": {
+      "Virtual": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681893319178
+        }
+      }
+    },
+    "Machine": {
+      "Machine": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681893328393
+        }
+      }
+    },
+    "common": {
+      "common": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1681895199254
+        }
+      }
+    },
+    "directory": {
+      "directory": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1681893949760
+        }
+      }
+    },
+    "Term": {
+      "Term": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1681894018070
+        }
+      }
+    },
+    "SpringSecurity": {
+      "SpringSecurity": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681894145889
+        }
+      }
+    },
+    "Spring Boot": {
+      "Spring Boot": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1681972781716
+        }
+      }
+    },
+    "MP (*Mybatis Plus*)": {
+      "MP (*Mybatis Plus*)": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1681972795033
+        }
+      }
+    },
+    "las": {
+      "las": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1681894818363
+        }
+      }
+    },
+    "First": {
+      "First": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1681894949983
+        }
+      }
+    },
+    "Out": {
+      "Out": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1681895090758
+        }
+      }
+    },
+    "Stack": {
+      "Stack": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681894983474
+        }
+      }
+    },
+    "Last": {
+      "Last": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1681895088704
+        }
+      }
+    },
+    "introduction": {
+      "introduction": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1681895110979
+        }
+      }
+    },
+    "structure": {
+      "structure": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1681895607203
+        }
+      }
+    },
+    "feature": {
+      "feature": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1681895207221
+        }
+      }
+    },
+    "JVM (*Java Virtual Machine*)": {
+      "JVM (*Java Virtual Machine*)": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1682248349259
+        }
+      }
+    },
+    "ICP (*Internet Content Provider*) ": {
+      "ICP (*Internet Content Provider*) ": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1681979537765
+        }
+      }
+    },
+    "Exchange": {
+      "Exchange": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1681979623764
+        }
+      }
+    },
+    "Point": {
+      "Point": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1681979626416
+        }
+      }
+    },
+    "IXP (*Internet Exchange Point*)": {
+      "IXP (*Internet Exchange Point*)": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1682147139599
+        }
+      }
+    },
+    "Queue": {
+      "Queue": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681990465915
+        }
+      }
+    },
+    "# *Common*": {
+      "# *Common*": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1681993550930
+        }
+      }
+    },
+    "phrase": {
+      "phrase": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1681993558519
+        }
+      }
+    },
+    "example": {
+      "example": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1681993578358
+        }
+      }
+    },
+    "For example": {
+      "For example": {
+        "customDictionary": {
+          "count": 4,
+          "lastUpdated": 1681993803226
+        }
+      }
+    },
+    "Target": {
+      "Target": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682147628322
+        }
+      }
+    },
+    "windows": {
+      "windows": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682147661327
+        }
+      }
+    },
+    "Tcp": {
+      "Tcp": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682149487653
+        }
+      }
+    },
+    "transfer": {
+      "transfer": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682149498216
+        }
+      }
+    },
+    "control": {
+      "control": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682149504237
+        }
+      }
+    },
+    "protocol": {
+      "protocol": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1682318394603
+        }
+      }
+    },
+    "TCP (*Transmission Control Protocol*)": {
+      "TCP (*Transmission Control Protocol*)": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682149621419
+        }
+      }
+    },
+    "Control": {
+      "Control": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682149674542
+        }
+      }
+    },
+    "Message": {
+      "Message": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682149679942
+        }
+      }
+    },
+    "Protocol": {
+      "Protocol": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682149687218
+        }
+      }
+    },
+    "Trace": {
+      "Trace": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682149747777
+        }
+      }
+    },
+    "Cache": {
+      "Cache": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682154599773
+        }
+      }
+    },
+    "aside": {
+      "aside": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682154602351
+        }
+      }
+    },
+    "pattern": {
+      "pattern": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682154605685
+        }
+      }
+    },
+    "Redis(深入学习)": {
+      "Redis(深入学习)": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682154617278
+        }
+      }
+    },
+    "Nginx": {
+      "Nginx": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1682248318701
+        }
+      }
+    },
+    "Redis": {
+      "Redis": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682248342164
+        }
+      }
+    },
+    "sync": {
+      "sync": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682250085852
+        }
+      }
+    },
+    "expired": {
+      "expired": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682250150304
+        }
+      }
+    },
+    "SpringDataRedis": {
+      "SpringDataRedis": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1682393088849
+        }
+      }
+    },
+    "World": {
+      "World": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682581563001
+        }
+      }
+    },
+    "dockerfile": {
+      "dockerfile": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682581632170
+        }
+      }
+    },
+    "Docker": {
+      "Docker": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682581662397
+        }
+      }
+    },
+    "images": {
+      "images": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1682581886666
+        }
+      }
+    }
+  }
+}

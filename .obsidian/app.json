@@ -1,0 +1,15 @@
+{
+  "spellcheck": true,
+  "trashOption": "local",
+  "attachmentFolderPath": "Global/Attackment",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Inbox",
+  "promptDelete": false,
+  "strictLineBreaks": true,
+  "spellcheckLanguages": [
+    "zh-CN"
+  ],
+  "vimMode": false,
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "source"
+}
