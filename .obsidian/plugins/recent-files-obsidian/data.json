@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Redis(深入学习)",
-      "path": "Tech/Redis/Redis(深入学习).md"
+      "basename": "main",
+      "path": "Interview/main.md"
     },
     {
       "basename": "Redis.conf",
       "path": "Tech/Redis/Redis.conf.md"
+    },
+    {
+      "basename": "学习路线",
+      "path": "Interview/学习路线.md"
+    },
+    {
+      "basename": "Redis(深入学习)",
+      "path": "Tech/Redis/Redis(深入学习).md"
     },
     {
       "basename": "Untitled 6",
@@ -33,10 +41,6 @@
       "path": "Tech/Spring全家桶/关于Spirngboot @Transaction注解的失效问题.md"
     },
     {
-      "basename": "main",
-      "path": "Interview/main.md"
-    },
-    {
       "basename": "SpringDataRedis",
       "path": "Tech/Spring全家桶/00 SpringData/SpringDataRedis.md"
     },
@@ -59,10 +63,6 @@
     {
       "basename": "2020热力发电厂试卷A",
       "path": "Daily/2020热力发电厂试卷A.pdf"
-    },
-    {
-      "basename": "学习路线",
-      "path": "Interview/学习路线.md"
     },
     {
       "basename": "MySql",

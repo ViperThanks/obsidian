@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Redis/Redis(深入学习).md",
+                "file": "Interview/main.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/Redis/Redis(深入学习).md",
+                "file": "Interview/main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/Redis/Redis(深入学习).md",
+                "file": "Interview/main.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech/Redis/Redis(深入学习).md"
+                "file": "Interview/main.md"
               }
             }
           }
@@ -228,9 +228,11 @@
   },
   "active": "f4cc43f8b3e7b913",
   "lastOpenFiles": [
-    "Global/Attackment/Snipaste_2023-05-27_21-32-09.png",
     "Tech/Redis/Redis.conf.md",
+    "Interview/main.md",
+    "Interview/学习路线.md",
     "Tech/Redis/Redis(深入学习).md",
+    "Global/Attackment/Snipaste_2023-05-27_21-32-09.png",
     "Global/Attackment/Snipaste_2023-05-27_21-28-09.png",
     "Global/Attackment/Snipaste_2023-05-27_21-26-00.png",
     "Global/Attackment/Snipaste_2023-05-27_20-37-57.png",
@@ -242,19 +244,16 @@
     "Global/Attackment/Snipaste_2023-05-27_20-29-41.png",
     "Global/Attackment/Snipaste_2023-05-27_20-27-33.png",
     "Global/Attackment/Snipaste_2023-05-27_20-10-32.png",
-    "Global/Attackment/Snipaste_2023-05-27_20-10-13.png",
     "Tech/Docker/Redis & Docker.md",
     "Tech/Docker/Docker常用命令.md",
     "Tech/00 Tech Reference/关于Spirngboot @Transaction注解的失效问题1.md",
     "Tech/Spring全家桶/关于Spirngboot @Transaction注解的失效问题.md",
-    "Interview/main.md",
     "Tech/Spring全家桶/00 SpringData/SpringDataRedis.md",
     "Inbox/Untitled 5.md",
     "Inbox/Untitled 4.md",
     "Inbox/Untitled 3.md",
     "Inbox/Untitled 1.md",
     "Daily/2020热力发电厂试卷A.pdf",
-    "Interview/学习路线.md",
     "Tech/MySql/MySql.md",
     "思维导图/easy-distributed-lock.excalidraw.md",
     "Global/Conf/my_directory.md",
