@@ -30,4 +30,4 @@
 ![](https://unsplash.com/photos/dDfOaRvKvGM)
 
 
-Redis 的惰性删除
+Redis 的惰性删除和单线程引起的问题
